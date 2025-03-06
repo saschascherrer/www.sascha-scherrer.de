@@ -1,0 +1,102 @@
+baseURL: /
+languageCode: en-us
+title: Sascha Scherrer
+
+defaultContentLanguage: en
+defaultContentLanguageInSubdir: true
+
+languages:
+  en:
+    languageName: English
+    languageCode: en-us
+    weight: 1
+  de:
+    languageName: Deutsch
+    languageCode: de-de
+    weight: 2
+
+module:
+  hugoVersion:
+    extended: true
+    min: "0.134.0"
+  imports:
+    - path: github.com/imfing/hextra
+
+enableRobotsTXT: true
+enableGitInfo: true
+enableEmoji: false
+hasCJKLanguage: true
+
+markup:
+  highlight:
+    noClasses: false
+  goldmark:
+    renderer:
+      unsafe: true
+
+enableInlineShortcodes: true
+
+params:
+  navbar:
+    displayTitle: true
+    displayLogo: true
+    logo:
+      path: images/logo.svg
+      dark: images/logo.svg
+      link: /
+      width: 40
+      height: 20
+    
+  footer:
+    enable: true
+    displayCopyright: true
+    displayPoweredBy: true
+    #width: normal
+
+  displayUpdatedDate: true
+  dateFormat: "January 2, 2006"
+
+  editURL:
+    enable: false
+
+  highlight:
+    copy:
+      enable: true
+      # hover | always
+      display: hover
+
+menu:
+  main:
+    - identifier: docs
+      name: Docs
+      pageRef: /docs
+      weight: 10
+    - identifier: blog
+      name: Blog
+      pageRef: /blog
+      weight: 20
+    - identifier: search
+      name: Search
+      weight: 30
+      params:
+        type: search
+    - identifier: imprint
+      name: Imprint
+      pageRef: /imprint
+      weight: 40
+    - identifier: privacy
+      name: Privacy
+      pageRef: /privacy
+      weight: 45
+    - identifier: github
+      name: GitHub
+      url: https://github.com/saschascherrer/
+      weight: 50
+      params:
+        icon: github
+    - identifier: linkedin
+      name: GinkedIn
+      url: https://www.linkedin.com/in/sascha-scherrer/
+      weight: 60
+      params:
+        icon: linkedin
