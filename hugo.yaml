@@ -71,10 +71,10 @@ menu:
       name: Docs
       pageRef: /docs
       weight: 10
-    - identifier: blog
-      name: Blog
-      pageRef: /blog
-      weight: 20
+#    - identifier: blog
+#      name: Blog
+#      pageRef: /blog
+#      weight: 20
     - identifier: search
       name: Search
       weight: 30
