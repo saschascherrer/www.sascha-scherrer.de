@@ -1,6 +1,7 @@
 ---
 title: "Datenschutz"
 summary: "Rechtliche Hinweise zum Datenschutz"
+excludeSearch: true
 ---
 
 ## Verantwortlich für den Datenschutz

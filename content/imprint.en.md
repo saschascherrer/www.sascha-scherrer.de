@@ -3,6 +3,7 @@ title: "Imprint"
 summary: "Legal information"
 aliases:
   - /imprint
+excludeSearch: true
 ---
 
 ## Service provider

@@ -1,6 +1,7 @@
 ---
 title: "Impressum"
 summary: "Rechtliche Angaben"
+excludeSearch: true
 ---
 
 ## Diensteanbieter

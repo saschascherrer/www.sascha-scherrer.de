@@ -3,6 +3,7 @@ title: "Privacy"
 summary: "Legal notes on privacy and data protection"
 aliases:
   - /privacy
+excludeSearch: true
 ---
 
 ## Responsible for privacy and data protection
