@@ -50,7 +50,7 @@ params:
   footer:
     enable: true
     displayCopyright: true
-    displayPoweredBy: true
+    displayPoweredBy: false
     #width: normal
 
   displayUpdatedDate: true
@@ -70,6 +70,8 @@ menu:
     - identifier: docs
       name: Docs
       pageRef: /docs
+      params:
+        icon: document-text
       weight: 10
 #    - identifier: blog
 #      name: Blog
@@ -84,10 +86,14 @@ menu:
       name: Imprint
       pageRef: /imprint
       weight: 40
+      params:
+        icon: information-circle
     - identifier: privacy
       name: Privacy
       pageRef: /privacy
       weight: 45
+      params:
+        icon: shield-check
     - identifier: github
       name: GitHub
       url: https://github.com/saschascherrer/
