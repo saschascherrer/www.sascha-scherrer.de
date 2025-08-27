@@ -1,4 +1,4 @@
-baseURL: /
+baseURL: https://www.sascha-scherrer.de
 languageCode: en-us
 title: Sascha Scherrer
 
@@ -101,7 +101,7 @@ menu:
       params:
         icon: github
     - identifier: linkedin
-      name: GinkedIn
+      name: LinkedIn
       url: https://www.linkedin.com/in/sascha-scherrer/
       weight: 60
       params:
