@@ -1,8 +1,8 @@
 baseURL: https://www.sascha-scherrer.de
-languageCode: en-us
+languageCode: de-de
 title: Sascha Scherrer
 
-defaultContentLanguage: en
+defaultContentLanguage: de
 defaultContentLanguageInSubdir: true
 
 languages:
@@ -67,12 +67,12 @@ params:
 
 menu:
   main:
-    - identifier: docs
-      name: Docs
-      pageRef: /docs
-      params:
-        icon: document-text
-      weight: 10
+#    - identifier: docs
+#      name: Docs
+#      pageRef: /docs
+#      params:
+#        icon: document-text
+#      weight: 10
 #    - identifier: blog
 #      name: Blog
 #      pageRef: /blog
@@ -82,18 +82,18 @@ menu:
       weight: 30
       params:
         type: search
-    - identifier: imprint
-      name: Imprint
-      pageRef: /imprint
-      weight: 40
-      params:
-        icon: information-circle
-    - identifier: privacy
-      name: Privacy
-      pageRef: /privacy
-      weight: 45
-      params:
-        icon: shield-check
+#    - identifier: imprint
+#      name: Imprint
+#      pageRef: /imprint
+#      weight: 40
+#      params:
+#        icon: information-circle
+#    - identifier: privacy
+#      name: Privacy
+#      pageRef: /privacy
+#      weight: 45
+#      params:
+#        icon: shield-check
     - identifier: github
       name: GitHub
       url: https://github.com/saschascherrer/

@@ -1,18 +1,47 @@
 ---
 title: "Sascha Scherrer"
+layout: hextra-home
 summary: "IT Architekt, Sanitäter, Veranstaltungstechniker, Reisender, Mensch"
 ---
 
-## Über mich
+<div class="hx:mt-6 hx:mb-6">
+{{< hextra/hero-headline >}}
+  Sascha Scherrer
+{{< /hextra/hero-headline >}}
+</div>
 
-Ich bin studierter Informatiker und arbeite als IT Architekt für einen
-IT-Dienstleister im Bereich Infrastructure as a Service und Cloudinfrastruktur.
+<div class="hx:mb-12">
+{{< hextra/hero-subtitle >}}
+  Informatiker, Veranstaltungstechniker, Sanitäter, Reisender, Mensch
+{{< /hextra/hero-subtitle >}}
+</div>
 
-In meiner Freizeit engagiere ich mich beim Deutschen Roten Kreuz als Sanitäter
-und im ehrenamtlichen Katastrophenschutz.
-
-Außerdem bin ich für einen gemeinnützigen Verein ehrenamtlich tätig und
-unterstütze Musicalaufführungen bei der Bühnentechnik.
-
-Abgesehen davon bereise ich gerne die landschaftlich schönsten und
-beeindruckendsten Gegenden der Welt.
+<div class="hx:mt-6"></div>
+<!--
+{{< hextra/feature-grid >}}
+  {{< hextra/feature-card
+    title="Lichttechnik"
+    subtitle="Subtil oder Pointiert"
+    class="hx:aspect-auto hx:md:aspect-[1.1/1] hx:max-md:min-h-[340px]"
+    image="images/hextra-markdown.webp"
+    imageClass="hx:top-[40%] hx:left-[24px] hx:w-[180%] hx:sm:w-[110%] hx:dark:opacity-80"
+    style="background: radial-gradient(ellipse at 50% 80%,rgba(256,128,32,0.25),hsla(0,0%,100%,0));"
+  >}}
+  {{< hextra/feature-card
+    title="Tontechnik"
+    subtitle="Compose with just Markdown. Enrich with Shortcode components."
+    class="hx:aspect-auto hx:md:aspect-[1.1/1] hx:max-lg:min-h-[340px]"
+    image="images/hextra-markdown.webp"
+    imageClass="hx:top-[40%] hx:left-[36px] hx:w-[180%] hx:sm:w-[110%] hx:dark:opacity-80"
+    style="background: radial-gradient(ellipse at 50% 80%,rgba(142,53,74,0.15),hsla(0,0%,100%,0));"
+  >}}
+  {{< hextra/feature-card
+    title="Medientechnik"
+    subtitle="Built-in full text search with FlexSearch, no extra setup required."
+    class="hx:aspect-auto hx:md:aspect-[1.1/1] hx:max-md:min-h-[340px]"
+    image="images/hextra-search.webp"
+    imageClass="hx:top-[40%] hx:left-[36px] hx:w-[110%] hx:sm:w-[110%] hx:dark:opacity-80"
+    style="background: radial-gradient(ellipse at 50% 80%,rgba(221,210,59,0.15),hsla(0,0%,100%,0));"
+  >}}
+{{< /hextra/feature-grid >}}
+-->
