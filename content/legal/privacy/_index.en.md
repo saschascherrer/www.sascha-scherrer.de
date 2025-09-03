@@ -1,8 +1,9 @@
 ---
 title: "Privacy"
-summary: "Legal notes on privacy and data protection"
+weight: 20
 aliases:
-  - /privacy
+  - /en/privacy
+summary: "Legal notes on privacy and data protection"
 excludeSearch: true
 ---
 

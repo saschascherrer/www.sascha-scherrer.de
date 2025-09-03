@@ -1,8 +1,9 @@
 ---
 title: "Imprint"
-summary: "Legal information"
+weight: 10
 aliases:
-  - /imprint
+  - /en/imprint
+summary: "Legal information"
 excludeSearch: true
 ---
 

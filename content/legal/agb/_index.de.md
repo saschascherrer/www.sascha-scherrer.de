@@ -1,5 +1,9 @@
 ---
 title: "Allgemeine Geschäftsbedingungen"
+weight: 30
+aliases: 
+  - /de/agb
+  - /de/gtc
 summary: "Allgemeine Geschäftsbedingungen"
 excludeSearch: true
 ---

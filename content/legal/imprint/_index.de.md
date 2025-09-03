@@ -1,5 +1,8 @@
 ---
 title: "Impressum"
+weight: 10
+aliases: 
+  - /de/imprint
 summary: "Rechtliche Angaben"
 excludeSearch: true
 ---

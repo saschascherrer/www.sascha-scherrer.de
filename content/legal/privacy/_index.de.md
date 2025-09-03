@@ -1,5 +1,8 @@
 ---
 title: "Datenschutz"
+weight: 20
+aliases:
+  - /de/privacy
 summary: "Rechtliche Hinweise zum Datenschutz"
 excludeSearch: true
 ---
