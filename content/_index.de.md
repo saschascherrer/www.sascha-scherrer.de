@@ -44,6 +44,7 @@ Abgesehen davon bereise ich gerne die landschaftlich schönsten und beeindrucken
     title="Tontechnik"
     image="images/card_soundboard.png"
     imageStyle="width: 100%"
+    link="/de/eventtech/sound"
     subtitle="Tonmischung für Theater, Gesang, Bands und Events"
     method="Resize" 
     options="720x q60 webp"
