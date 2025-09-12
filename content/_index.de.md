@@ -4,19 +4,19 @@ layout: hextra-home
 summary: "IT Architekt, Sanitäter, Veranstaltungstechniker, Reisender, Mensch"
 ---
 
-<div class="hx:mt-6 hx:mb-6">
+<div class="hx:w-full hx:mt-6 hx:mb-6">
 {{< hextra/hero-headline >}}
   Sascha Scherrer
 {{< /hextra/hero-headline >}}
 </div>
 
-<div class="hx:mb-12">
+<div class="hx:w-full hx:mb-12">
 {{< hextra/hero-subtitle >}}
   Informatiker, Veranstaltungstechniker, Sanitäter, Reisender, Mensch
 {{< /hextra/hero-subtitle >}}
 </div>
 
-<div class="hx:mb-12">
+<div class="hx:w-full hx:mb-12">
 
 Ich bin studierter Informatiker und arbeite als IT Architekt für einen IT-Dienstleister im Bereich Infrastructure as a Service und Cloudinfrastruktur.
 
@@ -28,18 +28,26 @@ Abgesehen davon bereise ich gerne die landschaftlich schönsten und beeindrucken
 
 </div>
 
-<div class="hx:mt-6"></div>
+<div class="hx:w-full">
 
 {{< cards cols="2" >}}
   {{< card 
     title="Lichttechnik"
-    image="/images/bg_theatrical_light.png"
+    image="images/card_theatrical_light.png"
+    imageStyle="width: 100%"
+    link="/de/eventtech/light"
     subtitle="Lichtdesigner, Lichtprogrammierer und Showrunner für Musicals, Theaterproduktionen und Events"
+    method="Resize" 
+    options="720x q60 webp"
   >}}
   {{< card 
     title="Tontechnik"
-    image="/images/bg_soundboard.png"
+    image="images/card_soundboard.png"
+    imageStyle="width: 100%"
     subtitle="Tonmischung für Theater, Gesang, Bands und Events"
+    method="Resize" 
+    options="720x q60 webp"
   >}}
 {{< /cards >}}
 
+</div>
