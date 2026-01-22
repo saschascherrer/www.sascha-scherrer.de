@@ -1,6 +1,6 @@
 ---
 date: '2025-05-04T20:00:00+02:00'
-draft: true
+draft: false
 title: 'Cloud Anbieter'
 ---
 

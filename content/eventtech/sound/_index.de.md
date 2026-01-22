@@ -14,6 +14,8 @@ zufrieden gestellt.
 ## Mischpulte
 
 * Behringer Digitalpulte
+  * Behringer Wing Full-Size
+  * Behringer Wing Rack
   * Behringer X32
   * Behringer X32 Compact
   * Behringer xAir 18

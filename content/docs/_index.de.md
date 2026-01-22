@@ -1,5 +1,6 @@
 ---
 title: Dokumente
+draft: true
 ---
 
 Verschiedene Dokumente zu diversen Themen.

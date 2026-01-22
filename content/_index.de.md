@@ -31,22 +31,34 @@ Abgesehen davon bereise ich gerne die landschaftlich schönsten und beeindrucken
 <div class="hx:w-full">
 
 {{< cards cols="2" >}}
-  {{< card 
+  {{< card
     title="Lichttechnik"
     image="images/card_theatrical_light.png"
     imageStyle="width: 100%"
     link="/de/eventtech/light"
     subtitle="Lichtdesigner, Lichtprogrammierer und Showrunner für Musicals, Theaterproduktionen und Events"
-    method="Resize" 
+    method="Resize"
     options="720x q60 webp"
   >}}
-  {{< card 
+  {{< card
     title="Tontechnik"
     image="images/card_soundboard.png"
     imageStyle="width: 100%"
     link="/de/eventtech/sound"
     subtitle="Tonmischung für Theater, Gesang, Bands und Events"
-    method="Resize" 
+    method="Resize"
+    options="720x q60 webp"
+  >}}
+{{< /cards >}}
+
+{{< cards cols="2" >}}
+  {{< card
+    title="Kubernetes"
+    image="images/card_cloudserver.png"
+    imageStyle="width: 100%"
+    link="/en/docs/kubernetes/"
+    subtitle="Orchestration and Securing Application Containers"
+    method="Resize"
     options="720x q60 webp"
   >}}
 {{< /cards >}}
