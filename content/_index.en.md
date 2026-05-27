@@ -48,8 +48,8 @@ most stunning and beautiful landscapes.
     title="Eurorack"
     image="images/card_pcb.png"
     imageStyle="width: 100%"
-    link="/de/diy/eurorack/"
-    subtitle="Sound making modular electronics"
+    link="/en/diy/eurorack/"
+    subtitle="Modular electronics that make or shape sound"
     method="Fill"
     options="720x560 q60 webp"
   >}}

@@ -9,16 +9,18 @@ languages:
   en:
     label: English
     locale: en-us
+    languageCode: en-us
     weight: 1
   de:
     label: Deutsch
     locale: de-de
+    languageCode: de-de
     weight: 2
 
 module:
   hugoVersion:
     extended: true
-    min: "0.134.0"
+    min: "0.162.0"
   imports:
     - path: github.com/imfing/hextra
 
