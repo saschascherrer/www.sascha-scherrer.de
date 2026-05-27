@@ -1,5 +1,5 @@
 baseURL: https://www.sascha-scherrer.de
-languageCode: de-de
+locale: de-de
 title: Sascha Scherrer
 
 defaultContentLanguage: de
@@ -7,12 +7,12 @@ defaultContentLanguageInSubdir: true
 
 languages:
   en:
-    languageName: English
-    languageCode: en-us
+    label: English
+    locale: en-us
     weight: 1
   de:
-    languageName: Deutsch
-    languageCode: de-de
+    label: Deutsch
+    locale: de-de
     weight: 2
 
 module:
