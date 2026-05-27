@@ -61,6 +61,15 @@ Abgesehen davon bereise ich gerne die landschaftlich schönsten und beeindrucken
     method="Resize"
     options="720x q60 webp"
   >}}
+  {{< card
+    title="Eurorack"
+    image="images/card_pcb.png"
+    imageStyle="width: 100%"
+    link="/de/diy/eurorack/"
+    subtitle="Sound making modular electronics"
+    method="Fill"
+    options="720x560 q60 webp"
+  >}}
 {{< /cards >}}
 
 </div>
